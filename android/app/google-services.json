@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137897063744",
+    "project_id": "authentic-drug",
+    "storage_bucket": "authentic-drug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137897063744:android:ea7387eef059b4999fb6a5",
+        "android_client_info": {
+          "package_name": "com.example.updated_drug_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfXpstb791DaFQG3F7D9AHD_EnY8v6JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
